@@ -305,14 +305,14 @@
           "_anchor": "image2-y",
           "_params": {
             "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingBottom": "0",
             "bgColor": "#fff",
             "showText": false
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dj-bangerz-graffti-sketch-edited-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/dj-bangerz-graffti-sketch-edited-1400x1400.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -344,7 +344,7 @@
           "_name": "form2",
           "_anchor": "form2-9",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -438,7 +438,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 DJ BANGERZ. <b><a href=\"http://thegiantslayers.tech\" target=\"_blank\" class=\"text-danger\">BUILT BY SLING&nbsp;</a></b>"
+          "text": "Copyright (c) 2017 DJ BANGERZ. <b><a href=\"http://thegiantslayers.tech\" target=\"_blank\" class=\"text-danger\">BUILT BY SLING&nbsp;</a></b>"
         }
       ]
     },
@@ -567,7 +567,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 DJ BANGERZ. <b><a href=\"http://thegiantslayers.tech\" target=\"_blank\" class=\"text-danger\">BUILT BY SLING&nbsp;</a></b>"
+          "text": "Copyright (c) 2017 DJ BANGERZ. <b><a href=\"http://thegiantslayers.tech\" target=\"_blank\" class=\"text-danger\">BUILT BY SLING&nbsp;</a></b>"
         },
         {
           "_styles": {
@@ -840,7 +840,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 DJ BANGERZ. <b><a href=\"http://thegiantslayers.tech\" target=\"_blank\" class=\"text-danger\">BUILT BY SLING&nbsp;</a></b>"
+          "text": "Copyright (c) 2017 DJ BANGERZ. <b><a href=\"http://thegiantslayers.tech\" target=\"_blank\" class=\"text-danger\">BUILT BY SLING&nbsp;</a></b>"
         },
         {
           "_styles": {
@@ -858,7 +858,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1224,7 +1224,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 DJ BANGERZ. <b><a href=\"http://thegiantslayers.tech\" target=\"_blank\" class=\"text-danger\">BUILT BY SLING&nbsp;</a></b>"
+          "text": "Copyright (c) 2017 DJ BANGERZ. <b><a href=\"http://thegiantslayers.tech\" target=\"_blank\" class=\"text-danger\">BUILT BY SLING&nbsp;</a></b>"
         },
         {
           "_styles": {
