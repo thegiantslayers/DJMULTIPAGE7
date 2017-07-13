@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DJ BANGERZ MULTIPAGE 7",
-    "currentPage": "SERVICES.html",
+    "currentPage": "HOME.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,8 +26,10 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 34,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 35,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "HOME.html": {
@@ -294,6 +296,34 @@
           "title": "<a href=\"RECENTEVENTS.html\" class=\"text-white\">RECENT EVENTS&nbsp;</a>",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-y",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dj-bangerz-graffti-sketch-edited-1400x1400.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_styles": {
@@ -828,7 +858,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -851,6 +881,15 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#b8312f",
+              "font-size": "24px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "features3-s",
           "_params": {
             "paddingTop": 2,
@@ -957,22 +996,22 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H4": {
-              "color": "#b8312f",
-              "font-size": "24px"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "font-size": "20px",
+              "color": "#b8312f"
+            }
+          },
           "_anchor": "form1-t",
           "_params": {
             "labelsColor": "#232323",
@@ -1018,16 +1057,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET READY FOR SOME BANGERZ!&nbsp;</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            "SMALL": {
-              "font-size": "20px",
-              "color": "#b8312f"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET READY FOR SOME BANGERZ!&nbsp;</a>"
         },
         {
           "_inherit": "msg-box8",
