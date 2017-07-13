@@ -828,7 +828,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -960,7 +960,11 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_styles": {
             "H4": {
-              "color": "#b8312f"
+              "color": "#b8312f",
+              "font-size": "24px"
+            },
+            "P": {
+              "font-size": "20px"
             }
           }
         },

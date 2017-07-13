@@ -698,6 +698,10 @@ h6,
 }
 #features3-s H4 {
   color: #b8312f;
+  font-size: 24px;
+}
+#features3-s P {
+  font-size: 20px;
 }
 #form1-t .form-control-label {
   color: #232323;
